@@ -1,0 +1,16 @@
+Demoing 2-argument version of `load-font-ex`.
+
+---
+
+Steps:
+
+jpm -l deps
+jpm -l build
+jpm -l install
+jpm -l janet load-font-ex-demo.janet
+
+# observe window with successful text being drawn
+
+---
+
+Fonts obtained via: https://www.fontspace.com/category/Public-Domain
